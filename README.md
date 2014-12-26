@@ -1,0 +1,34 @@
+krishangswami.github.io
+=======================
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Krishang Swami</title>
+        <link type = "text/css" rel = "stylesheet" href="CSS.css"
+    </head>          
+    <body>
+        <h1>KRISHANG SWAMI</h1>
+        <div>
+            <a href = "https://www.linkedin.com/pub/krishang-swami/a5/609/8b9" target="_blank">
+                <p1>
+                    LinkedIn
+                </p1>
+            </a>
+            <a href = "http://instagram.com/krish.swami/" target="_blank">
+                <p2>
+                    Instagram
+                </p2>
+            </a>
+            <a href = "https://www.facebook.com/krishangswami" target="_blank">
+                <p3>
+                    Facebook
+                </p3>
+            </a>
+            <a href = "mailto:krishangswami@gmail.com">
+                <p4>
+                    Email
+                </p4>
+            </a> 
+        </div>
+    </body>
+</html>
