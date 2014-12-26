@@ -4,7 +4,7 @@ krishangswami.github.io
 <html>
     <head>
         <title>Krishang Swami</title>
-        <link type = "text/css" rel = "stylesheet" href="CSS.css"
+        <link type = "text/css" rel = "stylesheet" href="CSS"
     </head>          
     <body>
         <h1>KRISHANG SWAMI</h1>
