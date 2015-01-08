@@ -116,5 +116,5 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
-    background-image: url("jGIGWOA.svg");
+    background: url('jGIGWOA.svg');
 }
