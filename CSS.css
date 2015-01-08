@@ -114,7 +114,6 @@ html {
 }
 
 body {
-    display: table-cell;
     vertical-align: middle;
     background-image: url('http://krishangswami.github.io/jGIGWOA.svg');
 }
